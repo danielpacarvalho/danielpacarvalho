@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Daniel Carvalho
 
-- 👀 I’m interested in GO and Backend Engineering 
+- I’m interested in GO and Backend Engineering 
 
-- 🌱I'm currently learning kubernets and microservices
+- I'm currently learning kubernets and microservices
 
 - feel free to contact me at danielpacarvalho(at)gmail.com
 
