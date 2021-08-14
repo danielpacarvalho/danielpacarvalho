@@ -2,7 +2,7 @@
 
 - I’m interested in Backend Engineering 
 
-- I'm currently learning kubernets and microservices
+- I'm currently learning Kubernetes and Apache Kafka
 
 - feel free to contact me at daniel-carvalho.tech(at)protonmail.com
 
